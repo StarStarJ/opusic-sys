@@ -1,5 +1,5 @@
 [package]
-name = "opusic-sys"
+name = "audiopus_sys"
 version = "0.5.1"
 authors = ["Douman <douman@gmx.se>"]
 description = "Bindings to libopus"
